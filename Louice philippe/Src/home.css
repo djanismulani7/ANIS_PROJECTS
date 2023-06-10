@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&family=Righteous&display=swap');
+.da
+{
+	display: inline-flex;
+}
+.form-control
+{
+	background:transparent;
+}
+.dropdown-menu
+{
+	background-color: #f5f56b
+}
+
+.yt h3 
+{
+	text-align: center;
+	color:seagreen;
+	letter-spacing: 10px;
+}
+.yt iframe
+{
+	height: 70vh;
+}
+.curosltext
+{
+	font-family: 'Kaisei Tokumin', serif;
+	color: black;
+	font-size: 25px;
+	padding-top: 10PX;
+	text-align: center;
+}
+.curoslbton
+{
+	display: inline-block;
+	color: black;
+	font-size: 18px;
+	text-transform: capitalize;
+	transition: all;
+	border: 1px solid black;
+	padding:3px 50px 3px 50px;
+}
+section
+{
+	padding: 5% 15% ;
+}
+
+.mainpart
+{
+	background-color: white;
+	background-position: center;
+	background-size: cover;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	align-items: center;
+}
+
+.maintext h5
+{
+	color: #EE1C47 ;
+	font-size: 16px;
+	text-transform: capitalize;
+	font-weight: 500;
+	font-family: 'Righteous', cursive;
+}
+
+.maintext h1
+{
+	font-family: 'Kaisei Tokumin', serif;
+	color: black;
+	font-size: 50px;
+	text-transform: capitalize;
+	line-height: 1.1;
+	font-weight: 400;
+	margin: 6px 0 10px;
+}
+.maintext p
+{
+	 font-style: italic;
+	 color: royalblue;
+	 font-size: 20px;
+	 margin-bottom: 20px;
+	 text-transform: capitalize;
+}
+
+.mainbton
+{
+	display: inline-block;
+	color: black;
+	font-size: 18px;
+	text-transform: capitalize;
+	transition: all;
+	border: 1px solid black;
+	padding:3px 50px 3px 50px;
+}
+
+.mainbton:hover
+{
+	display: inline-block;
+	color: white;
+	background-color: black;
+	font-size: 18px;
+	text-transform: capitalize;
+	transition: all;
+}
+
+.Midimg img
+{  
+	width: 100%;
+	min-width: 100%;
+	display: flex;
+}
+
+.d2
+{
+	display: inline-flex;
+	width: 100%;
+}
+
+/*middle 2 div*/
+.mid2box
+{
+	display: inline-flex;
+	background-color: #DFC9A7;
+	color: white;
+	width: 100%;
+	height: 300px;
+}
+.mainpart1
+{
+	background-color: #333333;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	align-items: center;
+	width: 50%;
+}
+.mdbox2img
+{
+	width:672px;
+	height:297px;
+}
+.maintext1 h5
+{
+	color: white;
+	font-size: 16px;
+	text-transform: capitalize;
+	font-weight: 500;
+	font-family: serif;
+}
+
+.maintext1 h1
+{
+	font-family: 'Kaisei Tokumin', serif;
+	color: white;
+	font-size: 30px;
+	text-transform: capitalize;
+	line-height: 1.1;
+	font-weight: 400;
+	margin: 6px 0 10px;
+}
+.maintext1 p
+{
+	 color: white;
+	 font-size: 12px;
+	 margin-bottom: 20px;
+	 text-transform: capitalize;
+}
+
+.mainbton1
+{
+	display: inline-block;
+	color: white;
+	font-size: 18px;
+	text-transform: capitalize;
+	transition: all;
+	border: 1px solid white;
+	padding:3px 50px 3px 50px;
+}
+
+.mainbton1:hover
+{
+	display: inline-block;
+	color: black;
+	background-color: white;
+	font-size: 18px;
+	text-transform: capitalize;
+	transition: all;
+}
+
+.cat1 img
+{
+	width: 247px;
+	height: 191px;
+}
+
+.cat1 P
+{
+	text-align: center;
+	font: bolder;
+	font-family: 'Kaisei Tokumin', serif;
+	color: black;
+	font-size: 25px;
+}
+
+.cat1
+{
+	padding-left: 50px;
+}
+
+.CATLOG
+{
+	width: 100%;
+	display: inline-flex;
+}
+
+.Catlog2
+{
+	display: inline-flex;
+	width: 100%;
+	height: 300px;
+	background-color: darkred;
+}
+.cat2
+{
+	
+}
