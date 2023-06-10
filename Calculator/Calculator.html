@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>INDIAN CALCI</title>
+<style type="text/css">
+	.frm
+		{
+			background-color: greenyellow;
+			border: solid 3px black;
+		}
+		.frm h1
+		{
+			color: blue;
+			font-weight: 600;
+		}
+		.frm h2
+		{
+			color: red;
+			font-weight: 600;
+		}
+		.btn
+		{
+			background-color: yellow;
+			color: red;
+			height: 50px;
+			width: 90px;
+			border: none;
+			text-align: center;
+		}
+		.btn:hover
+		{
+			text-align: center;
+			background-color: whitesmoke;
+			color: black;
+			height: 50px;
+			width: 140px;
+			border: solid 2px hotpink;
+		}
+		.input
+		{
+			border: none;
+			background-color: lightyellow;
+		}
+</style>
+</head>
+<body>
+		<div class="frm" >
+	<h1 align="center">CALCULATOR</h1>
+	<form  action="Calculator.jsp" align="center">
+		<h2>ENTER 1ST NUM=</h2><input type="number" name="first"> 			<br><b><br><b>
+		<h2>ENTER 2ND NUM=</h2><input type="number" name="second"> 			<br><b><br><b>
+		<input type="radio" name="choice" value="add">ADDITION				<br><b><br><b>
+		<input type="radio" name="choice" value="sub">SUBSTRACTION			<br><b><br><b>
+		<input type="radio" name="choice" value="mul">MULTIPLICATION		<br><b><br><b>
+		<input type="radio" name="choice" value="div">DIVISION				<br><b><br><b>
+		<input type="submit" class="btn" value="RESULT">					<br><b><br><b>
+	</form>
+	</div>
+</body>
+</html>
